@@ -38,9 +38,9 @@
 {
   	box-sizing: content-box;
   	padding: 10px;
-  	width: 185px;
+  	width: 190px;
   	border:double;   
-border-top-width: 0px;  	
+    border-top-width: 0px;  	
 }
 .Space
 {
