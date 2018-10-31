@@ -1,0 +1,64 @@
+.about2
+{
+	font-size: 20px;
+	font-family: "Copperplate Gothic Bold";
+}
+.tab1
+{
+    margin-left:20px; 
+    margin-right: 20px;
+}
+.counter
+{
+	font-size: 40px;
+	font-family: "Copperplate Gothic Bold";
+}
+.about
+{
+		font-size: 25px;
+	font-family: "Copperplate Gothic Bold";
+}
+#hc
+{
+	box-sizing: content-box;
+  	padding: 10px;
+  	width: 235px;
+  	border:double;
+  	border-top-width: 0px;	
+}
+#h
+{
+  	box-sizing: content-box;
+  	padding: 10px;
+  	width: 155px;
+  	border:double;
+  	border-top-width: 0px;	
+}
+#ha
+{
+  	box-sizing: content-box;
+  	padding: 10px;
+  	width: 185px;
+  	border:double;   
+border-top-width: 0px;  	
+}
+.Space
+{
+  	position:relative;
+  	top:768px;
+}
+.cu1
+{
+	font-family: "Rockwell Extra Bold";
+	font-size: 25px;
+}
+.cu2
+{
+	font-family: "Copperplate Gothic Light";
+	font-size: 20px;
+}
+.map
+{
+	position: relative;
+	margin-left: 200px;
+}
